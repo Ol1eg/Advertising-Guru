@@ -1,5 +1,5 @@
 
-Project using Next JS, React, Clerk, tailwind, Mongo DB
+Project using Next JS, React, TypeScript,Clerk, tailwind, Mongo DB
 
 ## Getting Started
 
